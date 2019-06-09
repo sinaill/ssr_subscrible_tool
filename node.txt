@@ -1,9 +1,1 @@
-# 节点列表
 
-# gcp台湾节点
-
-ss://YWVzLTI1Ni1jZmI6emhvbmd3ZW5qaWFvQDM0LjgwLjEyMS43Mzo4Mzg5
-
-# gcp洛杉矶节点
-
-ss://YWVzLTI1Ni1jZmI6emhvbmd3ZW5qaWFvQDM1LjIzNi4xMTcuMTgzOjgzODk=
